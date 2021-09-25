@@ -1,0 +1,2 @@
+rootProject.name = "pdfreader2021"
+include ':app'
